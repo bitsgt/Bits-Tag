@@ -6,8 +6,7 @@ The itch.io page is [here.](https://bits-games-01.itch.io/bits-tag-alpha)
 bitsgt
 
 # Co-Owners
-Tacos108 (Doesn't have github)
-FrrostyVR (Doesn't have github)
+Tacos108 (Doesn't have github) and FrrostyVR (Doesn't have github)
 
 # Admin
 none yet...
